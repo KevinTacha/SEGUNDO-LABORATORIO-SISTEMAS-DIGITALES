@@ -24,12 +24,12 @@ Montamos todos los componentes en la protoboard y usamos cables jumper para las 
 2. Código de Arduino
 El programa que cargamos en Arduino lee la temperatura del LM35, recibe comandos por el puerto serie y actúa sobre los LEDs. También envía la temperatura medida cuando se le solicita.
 
-#IMAGEN CODIGO
+# IMAGEN CODIGO
 
 3. Chatbot en Python (PC)
 En la computadora desarrollamos un chatbot que acepta entrada por texto o voz, se comunica por serial con Arduino y responde al usuario. Usamos las librerías pyserial, speech_recognition y pyttsx3
 
- #IMAGEN CODIGO
+ # IMAGEN CODIGO
 
  4. Funcionamiento integrado
 Conexión: Conectamos Arduino por USB y cerramos el IDE para que Python pueda acceder al puerto.
