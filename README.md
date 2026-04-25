@@ -213,6 +213,8 @@ Para identificar los pines del CNY70 hay que sostenerlo con la cara plana mirand
 
 <img width="1280" height="960" alt="img3 3" src="https://github.com/user-attachments/assets/aa42fbb3-dcea-432e-aa50-94a737695039" />
 
+https://github.com/user-attachments/assets/1f57aea5-d28b-4311-bc01-a8d9091921a7
+
 ### Como funciona el código
 
 **`detector_cny70.ino`** - Lee digitalmente el pin 2 cada 80-100ms. Si el valor es `0` (superficie oscura), enciende el LED y lo hace parpadear rápidamente para indicar detección activa. Si el valor es `1` (superficie clara), apaga el LED. Solo imprime por serial cuando el valor cambia, evitando saturar el monitor.
