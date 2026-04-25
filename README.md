@@ -52,6 +52,7 @@ Validación: Probamos todas las combinaciones (encender/apagar cada LED, consult
 ### EVIDENCIAS Y PRUEBAS REALES 
 
 <img width="1280" height="960" alt="img1 2" src="https://github.com/user-attachments/assets/da22c866-1038-4642-935a-0931ebae9fa5" />
+
 <img width="1280" height="960" alt="img1 1" src="https://github.com/user-attachments/assets/25d8d2bd-9984-492f-90a9-65fb5600df78" />
 
 https://github.com/user-attachments/assets/7fbb8482-c0c5-40be-a2d0-fd26a09f299a
@@ -142,9 +143,9 @@ Niveles de dificultad creciente.
 
 <img width="1179" height="902" alt="img2 1" src="https://github.com/user-attachments/assets/b9faec61-3c66-45ca-aedf-66e2adcc3b05" />
 
-https://github.com/user-attachments/assets/ebeb7f8d-e3b9-40ac-b69b-ee759f434826
-
 https://github.com/user-attachments/assets/6ab8eaaa-bbc2-4009-9f08-0360e561067a
+
+https://github.com/user-attachments/assets/ebeb7f8d-e3b9-40ac-b69b-ee759f434826
 
 
 
