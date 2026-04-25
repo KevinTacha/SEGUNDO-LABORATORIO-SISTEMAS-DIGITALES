@@ -53,6 +53,92 @@ Validación: Probamos todas las combinaciones (encender/apagar cada LED, consult
 
 https://github.com/user-attachments/assets/7fbb8482-c0c5-40be-a2d0-fd26a09f299a
 
+---
+
+# SEGUNDO PUNTO
+
+1. Descripción general
+Creamos un juego minimalista pero funcional: “Catch the Pixel” (Atrapa el píxel). En la pantalla OLED aparece un punto que se mueve aleatoriamente y el jugador debe seguir su posición con un cursor controlado por dos botones (izquierda/derecha o arriba/abajo, según el diseño). Cada vez que el cursor coincide con el punto, se suma un punto, el punto cambia de posición y la puntuación se actualiza en pantalla. El juego incluye un contador de tiempo o de vidas (opcional) para darle emoción.
+
+2. Componentes utilizados
+Placa Arduino UNO (también válido para Nano o Mega).
+
+Pantalla OLED de 0.96″ o 1.3″ con controlador SSD1306 (comunicación I2C).
+
+Dos pulsadores (botones) con resistencias pull-down de 10kΩ (o usando pull-up internos).
+
+Protoboard y cables jumper.
+
+3. Conexiones (hardware)
+Componente	Pin Arduino
+OLED VCC	5V
+OLED GND	GND
+OLED SCL	A5 (o pin SCL)
+OLED SDA	A4 (o pin SDA)
+
+4. Librerías necesarias para Arduino
+Instalamos las siguientes librerías desde el Gestor de Librerías del IDE de Arduino:
+
+Adafruit SSD1306 (para controlar la OLED)
+
+Adafruit GFX (gráficos básicos)
+
+5. Código de Arduino (juego)
+El programa dibuja un cursor (cuadrado de 8x8 píxeles) y un objetivo (círculo de 4x4). Los botones mueven el cursor en el eje X (o Y). Al solapar cursor y objetivo, se incrementa la puntuación, el objetivo se reposiciona aleatoriamente y se reproduce un tono.
+
+### CODIGO
+
+6. Procedimiento paso a paso
+Montaje físico: Seguimos el esquema de conexiones, verificando que la OLED aparezca en la dirección I2C correcta (usamos un escáner I2C si es necesario).
+
+Instalación de librerías: Desde el IDE de Arduino, instalamos Adafruit SSD1306 y Adafruit GFX.
+
+Carga del código: Copiamos el código, ajustamos pines si es necesario y lo cargamos en la Arduino UNO.
+
+Prueba inicial: Al encender, la OLED muestra un cursor y un objetivo. Los botones mueven el cursor horizontalmente.
+
+Ajustes de jugabilidad: Modificamos el intervalo de movimiento y el tamaño de los objetos para que sea desafiante pero jugable.
+
+Opcionales: Añadimos un buzzer para feedback auditivo, un límite de tiempo o un sistema de vidas.
+
+7. Documentación en GitHub
+Creamos un repositorio público llamado arduino-oled-game que contiene:
+
+README.md:
+
+Explicación del juego, reglas y materiales.
+
+Diagrama de conexiones (imagen Fritzing o foto clara).
+
+Instrucciones de instalación de librerías y carga del código.
+
+Gif o video corto mostrando el juego en funcionamiento.
+
+Carpeta /code:
+
+oled_game.ino (código principal).
+
+I2C_scanner.ino (utilidad opcional para comprobar la dirección de la OLED).
+
+Carpeta /images:
+
+Foto del montaje.
+
+Esquema eléctrico.
+
+Sección de “Mejoras futuras”:
+
+Añadir más botones para mover también en Y.
+
+Guardar puntuación más alta en EEPROM.
+
+Niveles de dificultad creciente.
+
+### EVIDENCIAS Y PRUEBAS REALES
+
+https://github.com/user-attachments/assets/6ab8eaaa-bbc2-4009-9f08-0360e561067a
+
+
 
 
 
