@@ -139,6 +139,11 @@ Niveles de dificultad creciente.
 
 ### EVIDENCIAS Y PRUEBAS REALES
 
+
+<img width="1179" height="902" alt="img2 1" src="https://github.com/user-attachments/assets/b9faec61-3c66-45ca-aedf-66e2adcc3b05" />
+
+https://github.com/user-attachments/assets/ebeb7f8d-e3b9-40ac-b69b-ee759f434826
+
 https://github.com/user-attachments/assets/6ab8eaaa-bbc2-4009-9f08-0360e561067a
 
 
