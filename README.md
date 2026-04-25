@@ -4,6 +4,9 @@
 
 **Dirigido a:** Diego Barragán 
 
+**Guia Laboratorio:**[LABORATORIO II.pdf](https://github.com/user-attachments/files/27072427/LABORATORIO.II.pdf)
+
+
 ---
 
 ## Tabla de contenidos
@@ -42,10 +45,11 @@ La comunicación entre la PC y el Arduino se hace a través del puerto serial (U
 
 ### Evidencia fotografica:
 
-<img width="657" height="312" alt="image" src="https://github.com/user-attachments/assets/d13f6188-e205-43b7-9cc5-5a285b5f9371" />
+<img width="1280" height="960" alt="img1 2" src="https://github.com/user-attachments/assets/18a3e25d-9fb0-4328-9175-de5462ca3d7a" />
 
+<img width="1280" height="960" alt="img1 1" src="https://github.com/user-attachments/assets/64d47a56-eea1-4604-86e0-2f87f62ff2ea" />
 
-<!--video-->
+https://github.com/user-attachments/assets/9242968a-0397-435d-aed2-0d6a3365dfe3
 
 
 ### Como funciona el código:
@@ -119,11 +123,11 @@ La pantalla OLED usa el protocolo I2C, que solo necesita dos cables de datos (SD
 
 ### Evidencia fotografica
 
-<img width="707" height="522" alt="image" src="https://github.com/user-attachments/assets/159adb31-f32a-44f2-9c98-4bb1bac04ecb" />
+<img width="1179" height="902" alt="img2 1" src="https://github.com/user-attachments/assets/887e4000-ff65-46d6-9311-e4fcbd4711e3" />
 
+https://github.com/user-attachments/assets/d6fd517f-17e6-4b21-b97b-8fdfb7ba031d
 
-<!-- Video -->
-
+https://github.com/user-attachments/assets/f86c3f5f-1e46-481c-b435-ce9e8b6f0acb
 
 ### Como funciona el código
 
@@ -203,10 +207,11 @@ Para identificar los pines del CNY70 hay que sostenerlo con la cara plana mirand
 
 ### Evidencia fotografica
 
-[FOTO DETECTOR DE COLORE{
+<img width="1280" height="960" alt="img3 1" src="https://github.com/user-attachments/assets/82e287f2-fb6b-4fd9-9fa0-598a33a8ce4e" />
 
-<!-- video -->
+<img width="1280" height="960" alt="img3 2" src="https://github.com/user-attachments/assets/090e2e84-6a7f-43b6-90c4-e6f6de26615e" />
 
+<img width="1280" height="960" alt="img3 3" src="https://github.com/user-attachments/assets/aa42fbb3-dcea-432e-aa50-94a737695039" />
 
 ### Como funciona el código
 
@@ -251,11 +256,6 @@ tercer_punto_krkt/
 - [Tutorial pantalla OLED con Arduino UNO — Solectroshop](https://solectroshop.com/es/content/47-tutorial-de-la-pantalla-oled-con-arduino-uno)
 
   
-<img width="1280" height="960" alt="img1 2" src="https://github.com/user-attachments/assets/da22c866-1038-4642-935a-0931ebae9fa5" />
-<img width="1280" height="960" alt="img1 1" src="https://github.com/user-attachments/assets/25d8d2bd-9984-492f-90a9-65fb5600df78" />
-
-https://github.com/user-attachments/assets/7fbb8482-c0c5-40be-a2d0-fd26a09f299a
-
 
 
 
