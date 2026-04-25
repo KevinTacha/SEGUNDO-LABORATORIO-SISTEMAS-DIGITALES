@@ -46,6 +46,8 @@ Si escribimos voz → el programa activa el micrófono, convierte nuestra voz a 
 
 Validación: Probamos todas las combinaciones (encender/apagar cada LED, consulta de temperatura, comandos inválidos). El chatbot respondió correctamente en todos los casos.
 
+### EVIDENCIAS Y PRUEBAS REALES 
+
 <img width="1280" height="960" alt="img1 2" src="https://github.com/user-attachments/assets/da22c866-1038-4642-935a-0931ebae9fa5" />
 <img width="1280" height="960" alt="img1 1" src="https://github.com/user-attachments/assets/25d8d2bd-9984-492f-90a9-65fb5600df78" />
 
