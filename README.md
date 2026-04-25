@@ -125,7 +125,7 @@ La pantalla OLED usa el protocolo I2C, que solo necesita dos cables de datos (SD
 
 <img width="1179" height="902" alt="img2 1" src="https://github.com/user-attachments/assets/887e4000-ff65-46d6-9311-e4fcbd4711e3" />
 
-https://github.com/user-attachments/assets/d6fd517f-17e6-4b21-b97b-8fdfb7ba031d
+https://github.com/user-attachments/assets/b18a846c-17bc-4fed-ae7e-3a4e176092f0
 
 https://github.com/user-attachments/assets/f86c3f5f-1e46-481c-b435-ce9e8b6f0acb
 
