@@ -4,6 +4,9 @@
 
 **Dirigido a:** Diego Barragán 
 
+**Guia Taller:** [LABORATORIO II.pdf](https://github.com/user-attachments/files/27072358/LABORATORIO.II.pdf)
+
+
 ---
 
 ### PRIMER PUNTO ### 
